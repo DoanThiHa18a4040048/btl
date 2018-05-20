@@ -1,0 +1,29 @@
+html,body{
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    max-width: 100%;
+}
+img{
+    max-width: 100%;
+}
+/*HEADER*/
+.navbar-inverse {
+    padding: 5px 0;
+    text-align: center;
+    background-color:black;
+    background-image: none;
+    
+}
+.btn_dangnhap{
+    background-color: silver;
+    color:black;
+    border:1px solid silver;
+    border-radius: 13px;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 7px 5px;
+    text-decoration: none;
+}
